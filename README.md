@@ -1,5 +1,5 @@
 # Recommender-Systems
-Coded implementation for Industrial Internship
+
 
 ### Dataset utilised
 
